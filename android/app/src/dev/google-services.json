@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "1040637403617",
+    "project_id": "dev-ting",
+    "storage_bucket": "dev-ting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040637403617:android:31f2801874a07aa3d032a0",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040637403617-b0vc8cp2uoimi22rl5i7j5pfutvh4st6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "94bc9b633e7ce19076f359537bb08d57d2ca8647"
+          }
+        },
+        {
+          "client_id": "1040637403617-jsn082anou2dvhr2popjlurinfku4bn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "085fae0e0e4042b45413e9d8f19b729c0a812615"
+          }
+        },
+        {
+          "client_id": "1040637403617-moa0or3uum83rlre525uv51055f50avi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "b7fb0134d4c51f240352d22a01cdcbe9847e0743"
+          }
+        },
+        {
+          "client_id": "1040637403617-bs7t378u9dc9bik3a3kjq884l3f282b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8BRgUXl2Wcp5wPDA1GFBXg842hMEcDws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040637403617-bs7t378u9dc9bik3a3kjq884l3f282b2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040637403617-6h5p9a68crp8cp777dp634ivitmkb29h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ting.market"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040637403617:android:67a016be5b5cd489d032a0",
+        "android_client_info": {
+          "package_name": "com.ting.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040637403617-99u0aakqja1ihuhfdl6mkb7ngju9t95g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ting.market",
+            "certificate_hash": "57310ff85f0d3ba73afb9a1edfb392515b2d9b78"
+          }
+        },
+        {
+          "client_id": "1040637403617-klti65cdo8ioc8jta59tee54uj3n52qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ting.market",
+            "certificate_hash": "085fae0e0e4042b45413e9d8f19b729c0a812615"
+          }
+        },
+        {
+          "client_id": "1040637403617-nftg3uej5ohr87ssn49qv16k0etk0hdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ting.market",
+            "certificate_hash": "3c84dac293216fe26a0243fd184c2f449c77ea43"
+          }
+        },
+        {
+          "client_id": "1040637403617-oou769kueuu0org6mpavn41ak5nr9j2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ting.market",
+            "certificate_hash": "94bc9b633e7ce19076f359537bb08d57d2ca8647"
+          }
+        },
+        {
+          "client_id": "1040637403617-bs7t378u9dc9bik3a3kjq884l3f282b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8BRgUXl2Wcp5wPDA1GFBXg842hMEcDws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040637403617-bs7t378u9dc9bik3a3kjq884l3f282b2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040637403617-6h5p9a68crp8cp777dp634ivitmkb29h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ting.market"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
